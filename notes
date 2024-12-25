@@ -1,3 +1,5 @@
+//notes
+
 // div takes the full page and span takes only the required page
 // inside the div we use padding & outside the div we use margin
 //if we want to navigate from one page to another after clicking the button then we use "a" tag
